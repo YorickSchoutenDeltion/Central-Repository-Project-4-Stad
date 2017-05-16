@@ -5,9 +5,7 @@ using UnityEngine;
 public class DEV_ResourceManager : MonoBehaviour {
 
     public int health;
-    public int medkits;
     public int maximumHealth;
-
     public int ammo;
 
     public void HealthDecrease(int amount)
@@ -32,4 +30,5 @@ public class DEV_ResourceManager : MonoBehaviour {
     {
         ammo += amount;
     }
+
 }

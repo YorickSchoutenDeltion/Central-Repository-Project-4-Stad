@@ -11,26 +11,28 @@ public class DEV_Pickups : MonoBehaviour {
     public int medKitIncrease;
     public int ammoIncrease;
 
-    private void Awake() {
-
+    private void Awake()
+    {
         player = GameObject.Find("Player");
         resources = player.GetComponent<ResourceManager>();
     }
 
-    /* Checks if the player walks against a item thats qualified as pickup
+    /* Checks if the player walks against an item that's qualified as pickup
     if so, destroys the object it was colliding with and adds an amount to one
-    of the elements of the resource manager*/
+    of the elements of the resource manager.*/
 
-    private void OnCollisionEnter(Collision c) {
-
-        if (c.gameObject == medKit) {
+    private void OnCollisionEnter(Collision c)
+    {
+        if (c.gameObject == medKit)
+        {
             Destroy(c.gameObject);
-            resources.medKits += medKitIncrease;
+            resources.HealthIncrease(medKitIncrease);
+        }
 
-            if (c.gameObject == ammoBox) {
-                Destroy(c.gameObject);
-                resources.ammo += ammoIncrease;
-            }
+        if (c.gameObject == ammoBox)
+        {
+            Destroy(c.gameObject);
+            resources.AmmoIncrease(ammoIncrease);
         }
     }
 }
