@@ -6,7 +6,7 @@ public class DEV_Pickups : MonoBehaviour {
     public GameObject ammoBox;
     public GameObject player;
 
-    public ResourceManager resources;
+    public DEV_ResourceManager resources;
 
     public int medKitIncrease;
     public int ammoIncrease;
