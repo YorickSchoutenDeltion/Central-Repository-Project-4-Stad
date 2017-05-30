@@ -8,26 +8,21 @@ public class DEV_ResourceManager : MonoBehaviour {
     public int maximumHealth;
     public int ammo;
 
-    public void HealthDecrease(int amount)
-    {
+    public void HealthDecrease(int amount){
         health -= amount;
-        if (health <= 0)
-        {
+        if (health <= 0){
             //gameover
         }
     }
 
-    public void HealthIncrease(int amount)
-    {
+    public void HealthIncrease(int amount){
         health += amount;
-        if (health > maximumHealth)
-        {
+        if (health > maximumHealth){
             health = maximumHealth;
         }
     }
 
-    public void AmmoIncrease(int amount)
-    {
+    public void AmmoIncrease(int amount){
         ammo += amount;
     }
 
