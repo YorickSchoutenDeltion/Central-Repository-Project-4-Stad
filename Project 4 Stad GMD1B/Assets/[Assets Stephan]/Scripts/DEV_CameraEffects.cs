@@ -52,13 +52,13 @@ public class DEV_CameraEffects : MonoBehaviour {
         if (isInDanger == true) {
             cameraEffects.vignette.intensity = Mathf.Lerp(cameraEffects.vignette.intensity, 1.73f, 4 * Time.deltaTime);
             cameraEffects.vignette.desaturate = Mathf.Lerp(cameraEffects.vignette.desaturate, 1, 2 * Time.deltaTime);
-            cameraMovementBlur.settings.frameBlending = Mathf.Lerp(cameraMovementBlur.settings.frameBlending, 1, 2 * Time.deltaTime);
+            cameraMovementBlur.enabled = true;
         }
 
          if (isInDanger == false)   {
             cameraEffects.vignette.intensity = Mathf.Lerp(cameraEffects.vignette.intensity, 0f, 4 * Time.deltaTime);
             cameraEffects.vignette.desaturate = Mathf.Lerp(cameraEffects.vignette.desaturate, 0, 2 * Time.deltaTime);
-            cameraMovementBlur.settings.frameBlending = Mathf.Lerp(cameraMovementBlur.settings.frameBlending, 0, 2 * Time.deltaTime);
+            cameraMovementBlur.enabled = false;
         }
 	}
 

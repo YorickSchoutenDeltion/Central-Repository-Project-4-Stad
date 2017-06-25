@@ -28,6 +28,9 @@ public class DEV_CharacterController : MonoBehaviour {
     private RaycastHit talkRay;
 
     public DEV_PlayerSounds playerSounds;
+    public DEV_CameraEffects dangerZone;
+
+    public AudioSource audio;
 
     public Animator animator;
 
@@ -37,11 +40,31 @@ public class DEV_CharacterController : MonoBehaviour {
     void Start()
     {
         attackTimerDefault = attackTimer;
+        audio = this.GetComponent<AudioSource>();
     }
 
-    void Update()
-    {
+    private void OnTriggerEnter(Collider col) {
+        if(col.transform.tag == "Enemy") {
+            dangerZone.isInDanger = true;
+            dangerZone.blurScreen = true;
+        }
     }
+
+    private void OnTriggerExit(Collider col) {
+        if (col.transform.tag == "Enemy") {
+            dangerZone.isInDanger = false;
+            dangerZone.blurScreen = false;
+        }
+    }
+
+    public void Update() {
+        if(dangerZone.isInDanger == true) {
+            audio.volume = Mathf.Lerp(audio.volume, 1, 2 * Time.deltaTime);
+        } else if(dangerZone.isInDanger == false) {
+            audio.volume = Mathf.Lerp(audio.volume, 0, 2 * Time.deltaTime);
+        }
+    }
+
 
     void FixedUpdate()
     {
