@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: d6b0d0fb4b7ef554bb714435d09957a3
+timeCreated: 1498401418
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Corner
+    100002: Corner Roof Piece
+    100004: Corner Roof Piece002
+    100006: Corner Roof Piece003
+    100008: Corner Roof Piece004
+    100010: Corner001
+    100012: Corner002
+    100014: Corner003
+    100016: Deur
+    100018: DeurPost
+    100020: Grond
+    100022: //RootNode
+    100024: Muur 2 Piece
+    100026: Muur Standard 1 Piece001
+    100028: Muur Standard 1 Piece002
+    100030: Muur Standard 1 Piece003
+    100032: Muur Standard 1 Piece006
+    100034: Muur Standard 1 Piece007
+    100036: Muur Standard 1 Piece008
+    100038: Raam Left Piece
+    100040: Raam Left Piece001
+    100042: Raam Mid Piece
+    100044: Raam Mid Piece001
+    100046: Raam Right Piece
+    100048: Raam Right Piece001
+    100050: Staircase 1 Piece
+    100052: Staircase 2 Piece
+    100054: Standard Roof 1 Piece
+    100056: Standard Roof 1 Piece001
+    100058: Standard Roof 2 Piece
+    100060: Standard Roof 2 Piece001
+    100062: Standard Roof 2 Piece002
+    100064: 'Standard Roof 4 '
+    100066: Standard Roof 4 001
+    100068: Standard Roof 4 002
+    100070: Standard Roof 4 003
+    400000: Corner
+    400002: Corner Roof Piece
+    400004: Corner Roof Piece002
+    400006: Corner Roof Piece003
+    400008: Corner Roof Piece004
+    400010: Corner001
+    400012: Corner002
+    400014: Corner003
+    400016: Deur
+    400018: DeurPost
+    400020: Grond
+    400022: //RootNode
+    400024: Muur 2 Piece
+    400026: Muur Standard 1 Piece001
+    400028: Muur Standard 1 Piece002
+    400030: Muur Standard 1 Piece003
+    400032: Muur Standard 1 Piece006
+    400034: Muur Standard 1 Piece007
+    400036: Muur Standard 1 Piece008
+    400038: Raam Left Piece
+    400040: Raam Left Piece001
+    400042: Raam Mid Piece
+    400044: Raam Mid Piece001
+    400046: Raam Right Piece
+    400048: Raam Right Piece001
+    400050: Staircase 1 Piece
+    400052: Staircase 2 Piece
+    400054: Standard Roof 1 Piece
+    400056: Standard Roof 1 Piece001
+    400058: Standard Roof 2 Piece
+    400060: Standard Roof 2 Piece001
+    400062: Standard Roof 2 Piece002
+    400064: 'Standard Roof 4 '
+    400066: Standard Roof 4 001
+    400068: Standard Roof 4 002
+    400070: Standard Roof 4 003
+    2300000: Corner
+    2300002: Corner Roof Piece
+    2300004: Corner Roof Piece002
+    2300006: Corner Roof Piece003
+    2300008: Corner Roof Piece004
+    2300010: Corner001
+    2300012: Corner002
+    2300014: Corner003
+    2300016: Deur
+    2300018: DeurPost
+    2300020: Grond
+    2300022: Muur 2 Piece
+    2300024: Muur Standard 1 Piece001
+    2300026: Muur Standard 1 Piece002
+    2300028: Muur Standard 1 Piece003
+    2300030: Muur Standard 1 Piece006
+    2300032: Muur Standard 1 Piece007
+    2300034: Muur Standard 1 Piece008
+    2300036: Raam Left Piece
+    2300038: Raam Left Piece001
+    2300040: Raam Mid Piece
+    2300042: Raam Mid Piece001
+    2300044: Raam Right Piece
+    2300046: Raam Right Piece001
+    2300048: Staircase 1 Piece
+    2300050: Staircase 2 Piece
+    2300052: Standard Roof 1 Piece
+    2300054: Standard Roof 1 Piece001
+    2300056: Standard Roof 2 Piece
+    2300058: Standard Roof 2 Piece001
+    2300060: Standard Roof 2 Piece002
+    2300062: 'Standard Roof 4 '
+    2300064: Standard Roof 4 001
+    2300066: Standard Roof 4 002
+    2300068: Standard Roof 4 003
+    3300000: Corner
+    3300002: Corner Roof Piece
+    3300004: Corner Roof Piece002
+    3300006: Corner Roof Piece003
+    3300008: Corner Roof Piece004
+    3300010: Corner001
+    3300012: Corner002
+    3300014: Corner003
+    3300016: Deur
+    3300018: DeurPost
+    3300020: Grond
+    3300022: Muur 2 Piece
+    3300024: Muur Standard 1 Piece001
+    3300026: Muur Standard 1 Piece002
+    3300028: Muur Standard 1 Piece003
+    3300030: Muur Standard 1 Piece006
+    3300032: Muur Standard 1 Piece007
+    3300034: Muur Standard 1 Piece008
+    3300036: Raam Left Piece
+    3300038: Raam Left Piece001
+    3300040: Raam Mid Piece
+    3300042: Raam Mid Piece001
+    3300044: Raam Right Piece
+    3300046: Raam Right Piece001
+    3300048: Staircase 1 Piece
+    3300050: Staircase 2 Piece
+    3300052: Standard Roof 1 Piece
+    3300054: Standard Roof 1 Piece001
+    3300056: Standard Roof 2 Piece
+    3300058: Standard Roof 2 Piece001
+    3300060: Standard Roof 2 Piece002
+    3300062: 'Standard Roof 4 '
+    3300064: Standard Roof 4 001
+    3300066: Standard Roof 4 002
+    3300068: Standard Roof 4 003
+    4300000: Raam Mid Piece
+    4300002: Grond
+    4300004: Corner
+    4300006: Raam Left Piece
+    4300008: Raam Right Piece
+    4300010: DeurPost
+    4300012: Muur Standard 1 Piece001
+    4300014: Muur Standard 1 Piece002
+    4300016: Raam Left Piece001
+    4300018: Raam Mid Piece001
+    4300020: Raam Right Piece001
+    4300022: Corner001
+    4300024: Corner002
+    4300026: Corner003
+    4300028: Muur Standard 1 Piece003
+    4300030: Muur 2 Piece
+    4300032: Muur Standard 1 Piece006
+    4300034: Muur Standard 1 Piece007
+    4300036: Muur Standard 1 Piece008
+    4300038: Staircase 1 Piece
+    4300040: Staircase 2 Piece
+    4300042: Corner Roof Piece
+    4300044: Standard Roof 1 Piece
+    4300046: Corner Roof Piece002
+    4300048: Corner Roof Piece003
+    4300050: Corner Roof Piece004
+    4300052: Standard Roof 1 Piece001
+    4300054: Standard Roof 2 Piece
+    4300056: Standard Roof 2 Piece001
+    4300058: Standard Roof 2 Piece002
+    4300060: 'Standard Roof 4 '
+    4300062: Standard Roof 4 001
+    4300064: Standard Roof 4 002
+    4300066: Standard Roof 4 003
+    4300068: Deur
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

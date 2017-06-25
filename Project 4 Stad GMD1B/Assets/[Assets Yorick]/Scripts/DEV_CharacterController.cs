@@ -22,9 +22,12 @@ public class DEV_CharacterController : MonoBehaviour {
     public GameObject playerObj;
     public GameObject camAxis;
     public GameObject rayPlane;
+    public GameObject weapon;
 
     private RaycastHit camRay;
     private RaycastHit talkRay;
+
+    public DEV_PlayerSounds playerSounds;
 
     public Animator animator;
 
@@ -94,7 +97,8 @@ public class DEV_CharacterController : MonoBehaviour {
         {
             attackTimer = attackTimerDefault;
             animator.SetFloat("IsSwing", 1);
-            GameObject.FindWithTag("Weapon").GetComponent<DEV_WeaponDamage>().isSwinging = true;
+            weapon.GetComponent<DEV_WeaponDamage>().isSwinging = true;
+            playerSounds.Swinging();
         }
         else
         {
@@ -102,7 +106,7 @@ public class DEV_CharacterController : MonoBehaviour {
             animator.SetFloat("IsSwing", 0);
             if(attackTimer < 0)
             {
-                GameObject.FindWithTag("Weapon").GetComponent<DEV_WeaponDamage>().isSwinging = false;
+                weapon.GetComponent<DEV_WeaponDamage>().isSwinging = false;
             }
         }
     }

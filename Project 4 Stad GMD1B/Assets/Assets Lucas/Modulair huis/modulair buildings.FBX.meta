@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: e2fdf59568bcbb8458ca0212a1a80a57
+timeCreated: 1498401420
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ceiling with four corners
+    100002: Ceiling with one corner
+    100004: Cieling for stairs
+    100006: Door frame
+    100008: Door left side
+    100010: Door right side
+    100012: Floor with one corner
+    100014: //RootNode
+    100016: Railing corner piece
+    100018: Railing t pose piece
+    100020: Railing tube
+    100022: Small window wall piece
+    100024: Stairs
+    100026: Wall
+    100028: Wall corner
+    100030: wall051
+    100032: wall052
+    100034: window 1 block022
+    100036: window 1 block023
+    100038: Window single
+    400000: Ceiling with four corners
+    400002: Ceiling with one corner
+    400004: Cieling for stairs
+    400006: Door frame
+    400008: Door left side
+    400010: Door right side
+    400012: Floor with one corner
+    400014: //RootNode
+    400016: Railing corner piece
+    400018: Railing t pose piece
+    400020: Railing tube
+    400022: Small window wall piece
+    400024: Stairs
+    400026: Wall
+    400028: Wall corner
+    400030: wall051
+    400032: wall052
+    400034: window 1 block022
+    400036: window 1 block023
+    400038: Window single
+    2300000: Ceiling with four corners
+    2300002: Ceiling with one corner
+    2300004: Cieling for stairs
+    2300006: Door frame
+    2300008: Door left side
+    2300010: Door right side
+    2300012: Floor with one corner
+    2300014: Railing corner piece
+    2300016: Railing t pose piece
+    2300018: Railing tube
+    2300020: Small window wall piece
+    2300022: Stairs
+    2300024: Wall
+    2300026: Wall corner
+    2300028: wall051
+    2300030: wall052
+    2300032: window 1 block022
+    2300034: window 1 block023
+    2300036: Window single
+    3300000: Ceiling with four corners
+    3300002: Ceiling with one corner
+    3300004: Cieling for stairs
+    3300006: Door frame
+    3300008: Door left side
+    3300010: Door right side
+    3300012: Floor with one corner
+    3300014: Railing corner piece
+    3300016: Railing t pose piece
+    3300018: Railing tube
+    3300020: Small window wall piece
+    3300022: Stairs
+    3300024: Wall
+    3300026: Wall corner
+    3300028: wall051
+    3300030: wall052
+    3300032: window 1 block022
+    3300034: window 1 block023
+    3300036: Window single
+    4300000: Wall
+    4300002: Window single
+    4300004: Wall corner
+    4300006: Ceiling with four corners
+    4300008: Ceiling with one corner
+    4300010: Floor with one corner
+    4300012: Railing corner piece
+    4300014: Railing t pose piece
+    4300016: Railing tube
+    4300018: Small window wall piece
+    4300020: Door frame
+    4300022: Door left side
+    4300024: Door right side
+    4300026: Stairs
+    4300028: Cieling for stairs
+    4300030: window 1 block022
+    4300032: wall051
+    4300034: window 1 block023
+    4300036: wall052
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: a7dd2db6e1015a44a9d53d91eb4a61c8
+timeCreated: 1498401416
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Door_Frame
+    100002: Floor
+    100004: Floor_Connect
+    100006: //RootNode
+    100008: Roof_Big
+    100010: Roof_Corner
+    100012: Roof_Edge_Big
+    100014: Roof_Edge_Small
+    100016: Roof_Small
+    100018: Stairs
+    100020: Wall_Big
+    100022: Wall_Corner
+    100024: Wall_Small
+    100026: Window_Big
+    100028: Window_Corner
+    100030: Window_End_Left
+    100032: Window_End_Right
+    100034: Window_Small
+    400000: Door_Frame
+    400002: Floor
+    400004: Floor_Connect
+    400006: //RootNode
+    400008: Roof_Big
+    400010: Roof_Corner
+    400012: Roof_Edge_Big
+    400014: Roof_Edge_Small
+    400016: Roof_Small
+    400018: Stairs
+    400020: Wall_Big
+    400022: Wall_Corner
+    400024: Wall_Small
+    400026: Window_Big
+    400028: Window_Corner
+    400030: Window_End_Left
+    400032: Window_End_Right
+    400034: Window_Small
+    2300000: Door_Frame
+    2300002: Floor
+    2300004: Floor_Connect
+    2300006: Roof_Big
+    2300008: Roof_Corner
+    2300010: Roof_Edge_Big
+    2300012: Roof_Edge_Small
+    2300014: Roof_Small
+    2300016: Stairs
+    2300018: Wall_Big
+    2300020: Wall_Corner
+    2300022: Wall_Small
+    2300024: Window_Big
+    2300026: Window_Corner
+    2300028: Window_End_Left
+    2300030: Window_End_Right
+    2300032: Window_Small
+    3300000: Door_Frame
+    3300002: Floor
+    3300004: Floor_Connect
+    3300006: Roof_Big
+    3300008: Roof_Corner
+    3300010: Roof_Edge_Big
+    3300012: Roof_Edge_Small
+    3300014: Roof_Small
+    3300016: Stairs
+    3300018: Wall_Big
+    3300020: Wall_Corner
+    3300022: Wall_Small
+    3300024: Window_Big
+    3300026: Window_Corner
+    3300028: Window_End_Left
+    3300030: Window_End_Right
+    3300032: Window_Small
+    4300000: Wall_Big
+    4300002: Window_Big
+    4300004: Window_End_Right
+    4300006: Window_End_Left
+    4300008: Wall_Small
+    4300010: Wall_Corner
+    4300012: Window_Corner
+    4300014: Window_Small
+    4300016: Roof_Edge_Small
+    4300018: Roof_Corner
+    4300020: Roof_Small
+    4300022: Roof_Edge_Big
+    4300024: Roof_Big
+    4300026: Door_Frame
+    4300028: Floor_Connect
+    4300030: Floor
+    4300032: Stairs
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

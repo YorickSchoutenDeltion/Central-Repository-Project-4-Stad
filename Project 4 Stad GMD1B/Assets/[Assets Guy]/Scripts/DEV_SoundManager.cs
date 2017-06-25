@@ -10,12 +10,6 @@ public class DEV_SoundManager : MonoBehaviour {
         playerSounds = GameObject.FindGameObjectWithTag("Player").GetComponent<DEV_PlayerSounds>();
     }
 
-    public void Update() {
-        if (Input.GetButtonDown("Jump")) {
-            playerSounds.Swinging();
-        }
-    }
-
     public void WeaponHit() {
         playerSounds.WeaponObjectHit();
     }
