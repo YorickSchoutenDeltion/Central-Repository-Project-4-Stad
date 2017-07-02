@@ -50,7 +50,7 @@ public class DEV_CameraEffects : MonoBehaviour {
         }
 
         if (isInDanger == true) {
-            cameraEffects.vignette.intensity = Mathf.Lerp(cameraEffects.vignette.intensity, 1.73f, 4 * Time.deltaTime);
+            cameraEffects.vignette.intensity = Mathf.Lerp(cameraEffects.vignette.intensity, 2f, 4 * Time.deltaTime);
             cameraEffects.vignette.desaturate = Mathf.Lerp(cameraEffects.vignette.desaturate, 1, 2 * Time.deltaTime);
             cameraMovementBlur.enabled = true;
         }
